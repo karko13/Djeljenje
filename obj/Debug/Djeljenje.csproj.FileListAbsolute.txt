@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\Djeljenje\bin\Debug\Djeljenje.exe.config
+C:\Users\rafob\source\repos\Djeljenje\bin\Debug\Djeljenje.exe
+C:\Users\rafob\source\repos\Djeljenje\bin\Debug\Djeljenje.pdb
+C:\Users\rafob\source\repos\Djeljenje\obj\Debug\Djeljenje.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\Djeljenje\obj\Debug\Djeljenje.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\Djeljenje\obj\Debug\Djeljenje.exe
+C:\Users\rafob\source\repos\Djeljenje\obj\Debug\Djeljenje.pdb
